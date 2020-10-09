@@ -1,3 +1,0 @@
-allow surfaceflinger audio_device:chr_file { read write open };
-
-allow surfaceflinger debugfs_trace_marker:file { open write };

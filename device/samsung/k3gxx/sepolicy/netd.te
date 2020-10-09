@@ -1,2 +1,0 @@
-allow netd self:capability sys_module;
-allow netd dhcp_data_file:dir setattr;
