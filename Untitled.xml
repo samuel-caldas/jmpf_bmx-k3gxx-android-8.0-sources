@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="LineageOS/android_hardware_samsung"                    path="hardware/samsung" remote="github" revision="lineage-15.0" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos"     path="hardware/samsung_slsi-cm/exynos" remote="github" revision="lineage-15.0" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5"    path="hardware/samsung_slsi-cm/exynos5" remote="github" revision="lineage-15.0" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5422" path="hardware/samsung_slsi-cm/exynos5422" remote="github" revision="lineage-15.0" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax"    path="hardware/samsung_slsi-cm/openmax" remote="github" revision="lineage-15.0" />
+</manifest>
